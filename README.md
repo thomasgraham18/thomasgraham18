@@ -1,30 +1,42 @@
-### Hello! My name is Thomas, I'm a web and mobile application development student at NBCC
+### Hello! My name is Thomas, and I'm a web and mobile application development student at NBCC.
+
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
+</div><br>
 
  <div>
   <a href="https://github.com/thomas.graham18"></a>
   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=thomasgraham18&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomasgraham18&layout=compact&langs_count=3&theme=midnight-purple"/>
 </div>
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div><br>
 
+### Powered by
+
+  <img align="center" alt="Windows" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg">
+  <img align="center" alt="Ubuntu" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg">
+  <img align="center" alt="Visual Studio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/visualstudio/visualstudio-plain.svg">
+  <img align="center" alt="VS Code height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
 <div>
 
-#### Gaming Accounts
+<a href="https://thomasgraham18.me"> My website. </a>
+
+### Gaming Accounts
 
 <b>Discord:</b> Snøw#0002 <br>
+<b>Battlestategames:</b> idkbruhimhigh <br>
 <b>Steam: </b><a class=" setupLink" href="https://steamcommunity.com/id/plssendmegames/">Snow</a> <br>
 <b>Origin:</b> shimgang <br>
 <b>Uplay:</b> shimgang <br>
 <b>Battlenet:</b> Snow#14582 <br>
 <b>Epic Games:</b> shimgang <br>
-</p>
 
-#### PC Specs!
+
+### PC Specs!
 
 Case: <a class="setupLink" href="http://www.newegg.ca/Product/Product.aspx?Item=N82E16811235034">Customized
         Zalman Z11</a><br>
@@ -49,11 +61,10 @@ HDD: <a class="setupLink" href="http://www.newegg.ca/Product/Product.aspx?Item=N
     Green 3TB</a><br>
 SSD: <a class="setupLink" href="http://www.newegg.ca/Product/Product.aspx?Item=N82E16820148820">Crucial MX100
     256GB</a><br>
-</p>
 
-#### Peripherals
 
-<p>
+### Peripherals
+
 Keyboard: Ducky One 2 Mini Pure White (Year of the Ox)<br>
 Mouse: <a class="setupLink"
     href="https://www.amazon.ca/Logitech-G602-Wireless-Gaming-Mouse/dp/B00E4MQODC/ref=sr_1_1?ie=UTF8&qid=1471475513&sr=8-1&keywords=Logitech+G602">Razer
@@ -87,7 +98,6 @@ Monitor #3: <a class="setupLink"
 Monitor Stand: <a class="setupLink"
     href="https://www.amazon.ca/gp/product/B009S750LA/ref=ppx_yo_dt_b_asin_title_o05_s01?ie=UTF8&psc=1">Vivo Dual
     Desk Mount </a><br>
-</p>
 </div>
 
 </div>
