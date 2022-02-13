@@ -27,7 +27,7 @@
 
 ### My website
 
-<a href="https://thomasgraham18.me"> Take me! </a>
+<a href="https://thomasgraham18.me"> Take me there! </a>
 
 ### Gaming Accounts
 
@@ -111,7 +111,7 @@ Monitor Stand: <a class="setupLink"
 
   ##
 
-<div>
+<div style="text-align:center">
   <a href="https://www.youtube.com/channel/UCiT5ZSmf53zcWzIPNPasJiQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.twitch.tv/idkbruhimhigh" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/dSDr2ypVC4" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
