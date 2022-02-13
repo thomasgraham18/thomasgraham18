@@ -20,13 +20,15 @@
   <div style="display: inline_block">
       <img align="center" alt="Windows" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg">
       <img align="center" alt="Ubuntu" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg">
-      <img align="center" alt="Visual Studio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/visualstudio/visualstudio-plain.svg">
+      <img align="center" alt="Visual Studio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg">
       <img align="center" alt="VS Code height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   </div>
 
 <div>
 
-<a href="https://thomasgraham18.me"> My website. </a>
+### My website.
+
+<a href="https://thomasgraham18.me"> Take me! </a>
 
 ### Gaming Accounts
 
