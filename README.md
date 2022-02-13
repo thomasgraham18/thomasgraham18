@@ -1,9 +1,9 @@
 ### Hello! My name is Thomas, I'm a web and mobile application development student at NBCC
 
  <div>
-  <a href="https://github.com/thomas.graham18">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thomasgraham18&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomasgraham18&layout=compact&langs_count=3&theme=midnight-purple"/>
+  <a href="https://github.com/thomas.graham18"></a>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=thomasgraham18&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomasgraham18&layout=compact&langs_count=3&theme=midnight-purple"/>
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
