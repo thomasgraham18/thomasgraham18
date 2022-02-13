@@ -40,7 +40,7 @@
 <b>Epic Games:</b> shimgang <br>
 
 
-### PC Specs!
+### PC Specs
 
 Case: <a class="setupLink" href="http://www.newegg.ca/Product/Product.aspx?Item=N82E16811235034">Customized
         Zalman Z11</a><br>
