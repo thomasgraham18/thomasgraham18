@@ -33,7 +33,7 @@
 ### Gaming Accounts
 
 <b>Discord:</b> Snøw#0002 <br>
-<b>Battlestategames:</b> idkbruhimhigh <br>
+<b>Escape from Tarkov:</b> idkbruhimhigh <br>
 <b>Steam: </b><a class=" setupLink" href="https://steamcommunity.com/id/plssendmegames/">Snow</a> <br>
 <b>Origin:</b> shimgang <br>
 <b>Uplay:</b> shimgang <br>
@@ -70,7 +70,7 @@ SSD: <a class="setupLink" href="http://www.newegg.ca/Product/Product.aspx?Item=N
 
 ### Peripherals
 
-Keyboard:<a class="setupLink"
+Keyboard: <a class="setupLink"
     href="https://mechanicalkeyboards.com/shop/index.php?l=product_detail&p=5027">Ducky One 2 Mini Pure White (Year of the Ox)</a><br>
 Mouse: <a class="setupLink"
     href="https://www.amazon.ca/Logitech-G602-Wireless-Gaming-Mouse/dp/B00E4MQODC/ref=sr_1_1?ie=UTF8&qid=1471475513&sr=8-1&keywords=Logitech+G602">Razer
