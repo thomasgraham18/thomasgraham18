@@ -97,10 +97,6 @@ Monitor Stand: <a class="setupLink"
     Desk Mount </a><br>
 </div>
 
-</div>
-   <img align="center" alt="css" src="https://c.tenor.com/57w9du3NrV0AAAAd/css-html.gif">
-</div>
-
   ##
 
 <div style="text-align:center">
