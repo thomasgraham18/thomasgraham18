@@ -1,30 +1,22 @@
 ### Hello! My name is Thomas, and I'm a web and mobile application development student at NBCC.
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
-</div><br><br>
-
- <div>
+<div>
   <a href="https://github.com/thomas.graham18"></a>
   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=thomasgraham18&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomasgraham18&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
-### Powered by
-
-  <div style="display: inline_block">
-      <img align="center" alt="Windows" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg">
-      <img align="center" alt="Ubuntu" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg">
-      <img align="center" alt="Visual Studio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg">
-      <img align="center" alt="VS Code" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-  </div>
-
+### Technology I am currently learning
+<div style="display: inline_block">
+  <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="SASS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
+  <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg">
+  <img align="center" alt="flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
+  <img align="center" alt="dot-net" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" />
+</div>
 <div>
-
+  
 ### My website
 
 <a href="https://thomasgraham18.me"> Take me there! </a>
