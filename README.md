@@ -7,10 +7,9 @@
 <br>
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 <br>
+-   🔭 I’m currently working on my **internship at Pinnacle OA**
 
--   🔭 I’m currently working on **graduating from NBCC!**
-
--   🌱 I’m currently learning **discord.js, PHP, Java & Swift**
+-   🌱 I’m currently learning **XSLT & XML**
 
 -   📫 How to reach me: **thomas.graham18@outlook.com**
 <br>
