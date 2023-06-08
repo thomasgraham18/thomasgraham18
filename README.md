@@ -8,7 +8,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 <br>
 
--   🔭 I’m currently working on my **internship at Pinnacle OA**
+-   🔭 I’m currently doing an internship at **Pinnacle OA**
 
 -   🌱 I’m currently learning **XSLT & XML**
 
