@@ -8,9 +8,9 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 <br>
 
--   🔭 I’m currently doing an internship at **Pinnacle OA**
+-   🔭 I’m currently a Junior Technical Consultant at **Pinnacle OA**
 
--   🌱 I’m currently learning **XSLT & XML**
+-   🌱 I’m currently learning **3E**
 
 -   📫 How to reach me: **thomas.graham18@outlook.com**
 <br>
