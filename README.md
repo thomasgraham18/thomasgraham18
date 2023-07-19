@@ -45,18 +45,9 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Vivaldi](https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white)
 
-<br>
+</br>
 <div align="center">
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thomasgraham18&theme=dark&show_icons=true" />
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomasgraham18&theme=dark&layout=compact&langs_count=10&hide=Shell&card_width=400" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
+  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=thomasgraham18&theme=dark)
+
 </div>
