@@ -1,19 +1,13 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=40&pause=1000&color=973BF7&width=450&height=75&lines=Thomas+Graham)](https://git.io/typing-svg)
 
-<h3> 🔗 &nbsp;Lets Connect! </h3>
-<p align="left">
-- <a href="https://linkedin.com/in/thomasgraham18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thomasgraham18" height="20" width="30" /></a>
-</p>
-<br>
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
-<br>
 
 -   🔭 I’m currently a Junior Technical Consultant at **Pinnacle OA**
 
 -   🌱 I’m currently learning **3E**
 
 -   📫 How to reach me: **thomas.graham18@outlook.com**
-<br>
+
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 <h4>Languages</h4>
@@ -65,7 +59,4 @@
 <div align="center">
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=thomasgraham18&theme=dark)
-
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=thomasgraham18&theme=dark&bg_color=20232a&hide_border=true" width="100%">
-
 </div>
