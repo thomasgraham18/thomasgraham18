@@ -6,7 +6,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
--   🔭 I’m currently a 3E Managed Services Junior Technical Consultant at **Pinnacle OA**
+-   🔭 I’m currently a 3E Managed Services Junior Technical Consultant at **HARBOR GLOBAL**
 
 -   🌱 I’m currently learning **3E**
 
