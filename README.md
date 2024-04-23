@@ -6,9 +6,9 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
--   🔭 I’m currently a 3E Managed Services Junior Technical Consultant at **HARBOR GLOBAL**
+-   🔭 I’m currently a 3E Managed Services Technical Consultant at **HARBOR GLOBAL**
 
--   🌱 I’m currently learning **3E**
+-   🌱 I’m always learning **3E**
 
 -   📫 How to reach me: **thomas.graham18@outlook.com**
 
